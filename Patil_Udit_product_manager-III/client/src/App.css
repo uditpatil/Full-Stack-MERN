@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+
+.formI {
+  color: gray;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 350px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: lightgray;
+  text-align: left;
+}
+
+.formI input {
+  border-radius: 5px;
+  padding: 5px 20px 5px 20px;
+  border: none;
+}
+
+h1 {
+  margin: 15px;
+}
+
+.submit-button {
+  margin: 15px;
+  padding: 10px 70px 10px 70px;
+  background-color: darkgray;
+  border: none;
+  font-size: medium;
+}
+
+.buton {
+  margin: 15px;
+  background-color:  darkgray;
+  border: none;
+  padding: 10px;
+}
+
+.link-page {
+  margin: 10px;
+  background-color: whitesmoke;
+  padding: 10px;
+}
+
+.single-product {
+  margin: 300px;
+}
+
+a {
+  color: gray;
+}
